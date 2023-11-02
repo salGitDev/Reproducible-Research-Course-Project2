@@ -1,8 +1,8 @@
 # Reproducible Research Course Project 2
 
-**Jeffrey M. Hunter**
+**Ibrahim Salieu Kamara**
 
-April 27, 2019
+02-11-2023
 
 ## Project
 
