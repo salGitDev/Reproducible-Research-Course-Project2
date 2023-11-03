@@ -30,7 +30,7 @@ Peer-graded Assignment
 
 * This course project is available on GitHub
 
-    <a href="https://github.com/oraclejavanet/reproducible-research-course-project-2" target="_top">Reproducible Research Course Project 2</a>
+    <a href="https://github.com/salGitDev/Reproducible-Research-Project1.git" target="_top">Reproducible Research Course Project 2</a>
 
 ## Synonpsis
 
